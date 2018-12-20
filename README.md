@@ -26,7 +26,10 @@ A collection of Django-Python Resources, Tutorials, Blogs, Examples
 | [Make a Web App Using Python & Flask!](https://aryaboudaie.com/python/technical/educational/web/flask/2018/10/17/flask.html)<br> | Make a Web App Using Python & Flask!|
 | [Where to Host Your Next App: Top 7 Django Hosting Providers!](https://www.netguru.co/blog/where-to-host-your-next-app-top-7-django-hosting-providers)<br> | Where to Host Your Next App: Top 7 Django Hosting Providers|
 | [Python Flask Web App to App Engine!](https://codelabs.developers.google.com/codelabs/cloud-vision-app-engine/index.html?index=..%2F..index#0)<br> | Deploying the Python Flask Web App to Google App Engine Flexible|
-
+| [Video- Python Django Tutorial](https://www.youtube.com/watch?v=Sa_kQheCnds)<br> | Python Django Tutorial: Deploying Your Application (Option #1) - Deploy to a Linux Server|
+| [Video - Create and deploy python web application in less then 15 minutes!](https://www.youtube.com/watch?v=0L8TsmrZPLg)<br> | Create and deploy python web application in less then 15 minutes!|
+| [A Python module for learning all major algorithms](https://github.com/sahanasj/pygorithm)<br> | A Python module for learning all major algorithms|
+| [Video](https://www.youtube.com/watch?v=jN9iPaQzZbQ)<br> | Deploy Django Application | Production Environment Nginx postgresql gunicorn ubuntu virtualenv|
 
 
 
